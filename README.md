@@ -6,8 +6,11 @@ By definition, sorting means getting a desired output and is therefore determini
 
 
 The language of non-deterministic algorithms consists of three reserved words: choose, fail, succeed. These are defined as follows:
-•	select :- Choose up random elements from the array .
+
+•	select :- Choose up random elements from the array 
+.
 •	fail The current thread fails.
+
 •	succeed The current thread succeeds and terminates. 
 
 
@@ -20,6 +23,7 @@ If yes then success() we print the array but if not then failure condition then 
 
 ALGORITHM:
 
+![Capture](https://user-images.githubusercontent.com/52752403/67145851-bc57b880-f2a2-11e9-89b4-98dac887a0f6.PNG)
 
 
 
