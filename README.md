@@ -9,6 +9,7 @@ The language of non-deterministic algorithms consists of three reserved words: c
 
 •	select :- Choose up random elements from the array 
 .
+
 •	fail The current thread fails.
 
 •	succeed The current thread succeeds and terminates. 
